@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Little Miss Bossy",
+      "image": "https://vignette.wikia.nocookie.net/mrmen/images/7/7b/Little_Miss_Bossy.png/revision/latest?cb=20160318184844"
+      
+    },
+    {
+      "id": 2,
+      "name": "Little Miss Shy",
+      "image": "https://vignette.wikia.nocookie.net/mrmen/images/3/3f/Little_Miss_Shy_2A.PNG/revision/latest?cb=20170529101610"
+     
+    },
+    {
+        "id": 3,
+        "name": "Little Miss Sunshine",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/f/f8/Little_Miss_Sunshine.png/revision/latest?cb=20170109195040"
+       
+      },
+      {
+        "id": 4,
+        "name": "Litte Miss Giggles",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/4/4b/Little_Miss_Giggles.PNG/revision/latest?cb=20160312222055"
+       
+      },
+      {
+        "id": 5,
+        "name": "Little Miss Scary",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/8/88/Little_Miss_Scary-1A.jpg/revision/latest?cb=20170526164549"
+       
+      },
+      {
+        "id": 6,
+        "name": "Little Miss Whoops",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/2/27/Little_Miss_Whoops_1A.PNG/revision/latest?cb=20170529194433"
+       
+      },
+      {
+        "id": 7,
+        "name": "Little Miss Trouble",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/c/cc/Little_Miss_Trouble.png/revision/latest?cb=20160318184030"
+       
+      },
+      {
+        "id": 8,
+        "name": "Little Miss Greedy",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/2/2d/Little_Miss_Greedy_2A.PNG/revision/latest?cb=20170529105632"
+       
+      },
+      {
+        "id": 9,
+        "name": "Little Miss Jealous",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/3/3d/MissJealous.gif/revision/latest?cb=20101106215443"
+       
+      },
+      {
+        "id": 10,
+        "name": "Little Miss Voyager",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/4/48/Little_Miss_Voyager.png/revision/latest?cb=20180615002136"
+       
+      },
+      {
+        "id": 11,
+        "name": "Little Miss Fickle",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/c/c5/Little-Miss-Fickle-4A.PNG/revision/latest?cb=20170529112459"
+       
+      },
+      {
+        "id": 12,
+        "name": "Little Miss Curious",
+        "image": "https://vignette.wikia.nocookie.net/mrmen/images/4/41/Little-Miss-Curious-3A.PNG/revision/latest?cb=20170529143923"
+       
+      }
+
+]  
